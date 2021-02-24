@@ -35,17 +35,17 @@ export default {
     display: flex;
     justify-content: space-between;
     padding: .5rem .2rem;
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
   }
 
   input {
-    width: 500px;
+    width: 75%;
     border: none;
     margin-left: 10px;
   }
 
   .create {
-    width: 100px;
+    width: 20%;
     height: 25px;
     border: none;
     background:rgb(245, 72, 72);
